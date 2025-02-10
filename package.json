@@ -1,0 +1,30 @@
+{
+  "name": "dialcode-and-country-data",
+  "version": "1.0.2",
+  "description": "A package that provides country and code data",
+  "main": "index.js",
+  "files": [
+    "data/Country_Dialcode.json",
+    "data/Country_Data.json",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "country",
+    "dialcode",
+    "json",
+    "data"
+  ],
+  "author": "SaranSarma",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saransarma/dialcode-and-country-data.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Saransarma/dialcode-and-country-data/issues"
+  },
+  "homepage": "https://github.com/Saransarma/dialcode-and-country-data#readme"
+}
